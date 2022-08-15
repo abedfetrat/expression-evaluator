@@ -1,0 +1,1 @@
+This is a expression evaluator that supports the basic arithmetic operations (addition, subtraction, multiplication, division and exponentiation)
